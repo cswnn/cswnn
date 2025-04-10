@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7dcea0&height=300&section=header&text=cswnn&fontSize=60&fontcolor=424242)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7dcea0&height=300&section=header&text=cswnn&fontSize=60&fontColor=494949)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
