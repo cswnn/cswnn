@@ -31,9 +31,15 @@ Here are some ideas to get you started:
   #### 🎓: Undergraduate student in department of Human-Centered Artificial Intelligence, Sangmyung University.<br/>
   #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
 
+  ## Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=Python&logoColor=white"/>
   
   ## Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
 
+  
 </div>
