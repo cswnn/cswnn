@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 </div>
 
 
+<div>
+  
+  <!--body-->
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
+  ## About Me
+  #### 🙋‍♂️: I am an undergraduate student majoring in Human-Centered Artificial Intelligence at Sangmyung University.
+  
+  ## Github Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
+
+</div>
