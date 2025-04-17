@@ -28,7 +28,9 @@ Here are some ideas to get you started:
   <!--body-->
 
   ## About Me
-  #### 🎓: Undergraduate student in department of Human-Centered Artificial Intelligence, Sangmyung University.
+  #### 🎓: Undergraduate student in department of Human-Centered Artificial Intelligence, Sangmyung University.<br/>
+  #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
+
   
   ## Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
