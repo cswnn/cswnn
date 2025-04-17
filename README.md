@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/openjdk-A8B9CC?style=flat-square&logo=openjdk&logoColor=white"/>
   
   ## Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
