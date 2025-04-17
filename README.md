@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  
+  <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7dcea0&height=300&section=header&text=cswnn&fontSize=60&fontColor=383838)
+  
+</div>
 
+
+
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
