@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <!--body-->
 
   ## About Me
-  #### 🎓: Undergraduate student in department of Human-Centered Artificial Intelligence, Sangmyung University.<br/>
+  #### 🎓: Undergraduate Student in Department of Human-Centered Artificial Intelligence, Sangmyung University.<br/>
   #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
 
   ## Tech Stack
