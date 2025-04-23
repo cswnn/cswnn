@@ -35,9 +35,10 @@ Here are some ideas to get you started:
   ### Language
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C-000000.svg?style=flat-square&logo=c&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-A8B9CC.svg?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp
+  </div>
 
   <h3 align="center">🛠 Tools 🛠</h3>
   <div align="center">
