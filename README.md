@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
   ## Tech Stack
   ### Language
-  <!--Python-->
+  <h3 align="center">✨ Tech Stack ✨</h3>
+  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
   <div align="center">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   </div>
   
   ## Github Stats
