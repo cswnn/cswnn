@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   #### 🎓: Undergraduate Student in Department of Human-Centered Artificial Intelligence, Sangmyung University.<br/>
   #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
 
+  #### Email
+  📧: cswon301@naver.com
+
+  
   ## Tech Stack
   ### Language
   <h3 align="center">✨ Tech Stack ✨</h3>
