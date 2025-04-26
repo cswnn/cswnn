@@ -47,10 +47,12 @@ Here are some ideas to get you started:
   ### Tools
   <h3 align="center">🛠 Tools 🛠</h3>
   <div align="center">
+    <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   </div>
+  
   
   ## Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
