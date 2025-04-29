@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
 
   #### Email
-  📧: cswon301@naver.com
+  📧: cswon301@naver.com & cswon301@gmail.com
 
   
   ## Tech Stack
