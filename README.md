@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
   ## About Me
   #### 🎓: Undergraduate Student in Department of Human-Centered Artificial Intelligence, Sangmyung University, Seoul.<br/>
+  ##### *Senior in the first semester.
   ##### *Total GPA: 4.31/4.5 (Credits Taken 113/130)
   #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
   #### 💡: Reinforcement Learning, Human-Robot Interaction<br/>
