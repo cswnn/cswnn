@@ -28,15 +28,23 @@ Here are some ideas to get you started:
   
   <!--body-->
 
+  ### ⭐️ Hi, there! I'm Sewon Choi :)
   ## About Me
-  #### 🎓: Undergraduate Student in Department of Human-Centered Artificial Intelligence, Sangmyung University, Seoul.<br/>
-  ##### *Senior in the first semester.
-  ##### *Total GPA: 4.31/4.5 (Credits Taken 113/130)
-  #### 🔥: I aim to become a Robot Intelligence Engineer.<br/>
-  #### 💡: Reinforcement Learning, Human-Robot Interaction, Robot Intelligence<br/>
+  #### 🎓: Undergraduate Student in Sangmyung University(Seoul).<br/>
+  ##### Major: Human-Centered Artificial Intelligence.
+  ##### Status: Senior in the first semester.
+  ##### *Total GPA: 4.31/4.5
+  #### 🔥 I aim to become a AI Research Engineer.<br/>
+  #### 💡 Interests: Machine Learning, Reinforcement Learning.<br/>
 
-  #### Email
-  📧: cswon301@naver.com & cswon301@gmail.com
+  #### Contact
+  <p>
+    <a href="mailto:cswon301@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+    <a href="mailto:cswon301@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sewon-choi-42490b36a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> </a>
+  </p>
+  
+
 
   
   ## Tech Stack
