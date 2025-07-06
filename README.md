@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
   
   <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Good%20to%20see%20you&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=Good%20to%20see%20you&fontSize=60&fontColor=fdfdfd"/>
 
   
 </div>
