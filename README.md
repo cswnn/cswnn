@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   ##### Major: Human-Centered Artificial Intelligence.
   ##### Status: Senior in the first semester.
   ##### *Total GPA: 4.31/4.5
-  #### 🔥 I aim to become a AI Research Engineer.<br/>
+  #### 🔥 I aim to become a AI Engineer.<br/>
   #### 💡 Interests: Machine Learning, Reinforcement Learning.<br/>
 
   #### Contact
@@ -49,16 +49,15 @@ Here are some ideas to get you started:
   
   ## Tech Stack
   ### Language
-  <h3 align="center">✨ Tech Stack ✨</h3>
-  <div align="center">
+  <div>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-A8B9CC.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
   </div>
+    
 
   ### Tools
-  <h3 align="center">🛠 Tools 🛠</h3>
-  <div align="center">
+  <div>
     <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
