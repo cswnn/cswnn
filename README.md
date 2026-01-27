@@ -17,7 +17,7 @@
 
   ### ⭐️ Hi, there! I'm Sewon Choi :)
   ## About Me
-  #### 🎓: Undergraduate Student in Sangmyung University(Seoul).<br/
+  #### 🎓: Undergraduate Student in Sangmyung University(Seoul).<br/>
   ##### Major: Human-Centered AI.
   ##### Status: Senior in the first semester.
   ##### *Total GPA: 4.32/4.5
