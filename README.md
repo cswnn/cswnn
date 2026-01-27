@@ -20,7 +20,7 @@
   #### 🎓: Undergraduate Student in Sangmyung University(Seoul).<br/
   ##### Major: Human-Centered AI.
   ##### Status: Senior in the first semester.
-  ##### *Total GPA: 4.31/4.5
+  ##### *Total GPA: 4.32/4.5
   #### 🔥 I aim to become a AI Engineer.<br/>
   #### 💡 Interests: Machine Learning, Reinforcement Learning.<br/>
 
