@@ -17,10 +17,10 @@
 
   ### ⭐️ Hi, there! I'm Sewon Choi :)
   ## About Me
-  #### 🎓: Undergraduate Student in Sangmyung University(Seoul).<br/>
-  ##### Major: Human-Centered AI.
-  ##### Status: Senior in the first semester.
-  ##### *Total GPA: 4.32/4.5
+  #### 🎓: Graduate(with a Bachelor's degree) in Sangmyung University(Seoul).<br/>
+  ##### Major: Human-Centered AI
+  ##### Status: Graudate(2026.02)
+  ##### Total GPA: 4.32/4.5
   #### 🔥 I aim to become a AI Engineer.<br/>
   #### 💡 Interests: Machine Learning, Reinforcement Learning.<br/>
 
@@ -48,9 +48,11 @@
   </div>
   
   
+  <!--
   ## Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cswnn&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswnn&layout=compact)
+  -->
 
   
 </div>
