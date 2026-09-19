@@ -22,7 +22,7 @@
   ##### Status: Graudate(2026.02)
   ##### Total GPA: 4.32/4.5
   #### 🔥 I aim to become a AI Engineer.<br/>
-  #### 💡 Interests: Machine Learning, Reinforcement Learning.<br/>
+  #### 💡 Interests: Machine Learning, Reinforcement Learning, RAG, LLM, Computer Vision<br/>
 
   #### Contact
   <p>
