@@ -18,7 +18,7 @@
   ### ⭐️ Hi, there! I'm Sewon Choi :)
   ## About Me
   #### 🎓: Graduate(with a Bachelor's degree) in Sangmyung University(Seoul).<br/>
-  ##### Major: Human-Centered AI
+  ##### Major: Human Intelligence Information Engineering
   ##### Status: Graudate(2026.02)
   ##### Total GPA: 4.32/4.5
   #### 🔥 I aim to become a AI Engineer.<br/>
