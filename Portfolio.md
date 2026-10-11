@@ -16,8 +16,8 @@
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> | 
 | **AI** | <img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2">  <img src="https://img.shields.io/badge/Reinforcement%20Learning-4CAF50"> |
 | **LLM** | <img src="https://img.shields.io/badge/RAG-1E88E5"> <img src="https://img.shields.io/badge/FAISS-044343"> <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9100"> |
-| **Backend & Deployment** | FastAPI, React Native, Google Cloud Run |
-| **Data Analysis** | Pandas, Numpy, Feature Engineering |
+| **Backend & Deployment** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/> |
+| **Data Analysis** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243B?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Feature%20Engineering-7057FF?style=flat&logo=Feature%20Engineering&logoColor=white"/> |
 
 
 <br>
