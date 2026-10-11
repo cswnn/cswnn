@@ -35,7 +35,7 @@
 > **DQN 알고리즘 기반 Acrobot-v1 강화학습 최적화**
 * **주요 업무 및 구현 내용**
   * [본인이 담당한 핵심 기능 구현]
-* **🛠️ Tech Stack:** `TypeScript`, `React`, `Next.js`
+* **🛠️ Tech Stack:** `Python`, `PyTorch`, `Gymnasium`, `Sckikit-learn`
 * **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/RL-Acrobot)
 
 #### 📌 대전 시내 택시기사 이동위치 추천 `[2024.09 ~ 2024.10]`
@@ -43,7 +43,7 @@
 * **주요 업무 및 구현 내용**
   * [본인이 담당한 핵심 기능 구현]
 * **🛠️ Tech Stack:** `Python`, `Pandas`, `Sckikit-learn`, `Matplotlib`
-* **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/RL-Acrobot)
+* **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/aida-taxi-location)
 
 <br>
 
