@@ -9,8 +9,6 @@
 <br>
 
 ### 🛠 TECH STACK
-> **주요 기술 배지 예시 (필요한 기술로 바꿔 쓰세요)**
-
 | 분류 | 기술 배지 |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> | 
@@ -56,7 +54,8 @@
 
 ---
 ### 📬 Contact & Links
-[![Github](https://shields.io)](https://github.com)
-[![Gmail](https://shields.io)](mailto:cswon301@gmail.com)
-[![Naver](https://shields.io)](mailto:cswon301@naver.com)
-[![Blog](https://shields.io)](본인블로그링크)
+<p>
+    <a href="mailto:cswon301@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+    <a href="mailto:cswon301@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sewon-choi/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> </a>
+  </p>
