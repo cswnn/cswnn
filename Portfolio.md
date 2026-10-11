@@ -13,10 +13,12 @@
 
 | 분류 | 기술 배지 |
 | :--- | :--- |
-| **Languages** | ![Java](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) |
-| **Frameworks** | ![Spring](https://shields.io) ![React](https://shields.io) |
-| **Databases** | ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) |
-| **DevOps & Tools** | ![AWS](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> | 
+| **AI** | <img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2">  <img src="https://img.shields.io/badge/Reinforcement%20Learning-4CAF50"> |
+| **LLM** | <img src="https://img.shields.io/badge/RAG-1E88E5"> <img src="https://img.shields.io/badge/FAISS-044343"> <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9100"> |
+| **Backend & Deployment** | FastAPI, React Native, Google Cloud Run |
+| **Data Analysis** | Pandas, Numpy, Feature Engineering |
+
 
 <br>
 
