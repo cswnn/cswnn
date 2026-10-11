@@ -54,5 +54,6 @@
 ---
 ### 📬 Contact & Links
 [![Github](https://shields.io)](https://github.com)
-[![Mail](https://shields.io)](mailto:본인이메일@gmail.com)
+[![Gmail](https://shields.io)](mailto:cswon301@gmail.com)
+[![Naver](https://shields.io)](mailto:cswon301@naver.com)
 [![Blog](https://shields.io)](본인블로그링크)
