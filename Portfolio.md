@@ -36,7 +36,7 @@
 * **주요 업무 및 구현 내용**
   * 5개 강화학습 알고리즘(DQN, DDQN, Dueling DQN, 3DQN, PER) 성능 비교 및 벤치마킹 분석
   * 하이퍼파라미터 튜닝(BATCH, GAMMA, EPS, TAU, LR, MEMORY, UPDATE_CYCLE 등)
-* 성과: DDQN 선정으로 목표 리워드 달성 에피소드 수 60% 단축 (269회 → 108회), 성공률 27%p 향상 (47.6% → 74.6%), 변동성 17% 감소
+* **📈 성과:** DDQN 선정으로 목표 리워드 달성 에피소드 수 60% 단축 (269회 → 108회), 성공률 27%p 향상 (47.6% → 74.6%), 변동성 17% 감소
 * **🛠️ Tech Stack:** `Python`, `PyTorch`, `Gymnasium`
 * **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/RL-Acrobot)
 
@@ -45,7 +45,7 @@
 * **주요 업무 및 구현 내용**
   * 택시 운행 데이터와 공공 데이터(날씨, 휴일, 계절, 지하철 유동인구) 수집 및 정제
   * 피처 엔지니어링 및 K-Means 클러스터링 기반의 수요 집중 지역(Hotspot) 도출 파이프라인 구축
-* 성과: 복합 데이터 병합 및 군집화 모델 설계를 통한 데이터 분석 역량, 프로젝트 관리 역량 확보
+* **📈 성과:** 복합 데이터 병합 및 군집화 모델 설계를 통한 데이터 분석 역량, 프로젝트 관리 역량 확보
 * **🛠️ Tech Stack:** `Python`, `Pandas`, `Sckikit-learn`, `Matplotlib`
 * **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/aida-taxi-location)
 
