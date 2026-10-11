@@ -22,21 +22,28 @@
 
 ### 💼 EXPERIENCE
 
-#### 📌 [프로젝트명 1] `[YYYY.MM ~ YYYY.MM]`
-> **[한 줄 요약: 어떤 서비스나 시스템인지 기재]**
+#### 📌 HomeFix (AI 가정 하자 진단 앱) `[2025.03 ~ 2025.12]`
+> **[팀장] 컴퓨터 비전과 RAG를 결합한 AI 주거 환경 문제 진단 및 해결책 제안 서비스**
 * **주요 업무 및 구현 내용**
   * [본인이 담당한 핵심 개발 및 리팩토링 항목]
   * [대용량 데이터 처리 또는 아키텍처 개선 경험]
-* **📈 성과:** [수치적인 성과 (예: API 응답 속도 30% 개선, 유저 수 X% 증가)]
-* **🛠️ Tech Stack:** `Java`, `Spring Boot`, `MySQL`, `Redis`
-* **🔗 Links:** [📂 GitHub Repository](본인_레포지토리_링크) | [🌐 Live Demo](배포_링크_있다면)
+* **📈 성과:** 녹 진단 정확도 33%p 개선 (39% → 72%), 2025 Human AI Studio Festival 장려상 수상 (30개 팀 참가)
+* **🛠️ Tech Stack:** `Python`, `FastAPI`, `PyTorch`, `FAISS`, `EfficientNetV2`, `Google Cloud Run`, `React Native`
+* **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/Capstone_Homefix2)
 
-#### 📌 [프로젝트명 2] `[YYYY.MM ~ YYYY.MM]`
-> **[한 줄 요약: 어떤 서비스나 시스템인지 기재]**
+#### 📌 Acrobot 강화학습 최적화 `[2024.10 ~ 2024.12]`
+> **DQN 알고리즘 기반 Acrobot-v1 강화학습 최적화**
 * **주요 업무 및 구현 내용**
   * [본인이 담당한 핵심 기능 구현]
 * **🛠️ Tech Stack:** `TypeScript`, `React`, `Next.js`
-* **🔗 Links:** [📂 GitHub Repository](본인_레포지토리_링크)
+* **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/RL-Acrobot)
+
+#### 📌 대전 시내 택시기사 이동위치 추천 `[2024.09 ~ 2024.10]`
+> **승하차 좌표/시간 데이터 분석 통한 택시 수요 스팟 발굴**
+* **주요 업무 및 구현 내용**
+  * [본인이 담당한 핵심 기능 구현]
+* **🛠️ Tech Stack:** `Python`, `Pandas`, `Sckikit-learn`, `Matplotlib`
+* **🔗 Links:** [📂 GitHub Repository](https://github.com/cswnn/RL-Acrobot)
 
 <br>
 
